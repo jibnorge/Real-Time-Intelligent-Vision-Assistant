@@ -14,7 +14,7 @@ The system uses a proposed wearable camera (envisioned as a locket-style device)
 - Modular pipeline — easy to swap or upgrade individual components
 - Designed with accessibility and independence in mind
 
-## 🏆 Achievement
+## Achievement
 
 Top 10 finalist in the <a href=https://www.stclaircollege.ca/ford-innovation-showcase/2024-gallery target="_blank">**Ford Innovation Showcase 2024**</a> — celebrating transformative AI for accessibility.
 
@@ -69,14 +69,26 @@ Here are real-world examples of how **RIVA** performs in practical scenarios. Th
 
 This shows RIVA providing a natural, detailed spoken description of the surroundings (e.g., room layout, objects, people, etc.).
 
-<video controls src="videos/Video 1.mp4" title="Title"></video>
+![alt text](images/test_1.png)
+
+**RIVA's spoken output (transcribed):**  
+"The environment features a large open space with two students sitting on the steps of a staircase. One student is sitting on the left side of the stairs, while the other is on the right side. They are both working, with one student holding a book and the other holding a laptop. There are multiple chairs scattered around the space, with some placed near the stairs and others further away. In the background, there is a TV mounted on the wall, on the far left side."
+
+**Full video demo:**
+videos/Video 1.mp4
 
 ### 2. Safety-Critical Query: Road Crossing Assistance
 **User prompt:** "Hey RIVA! Can I cross the road now?"
 
 This demonstrates RIVA's ability to interpret safety-related questions, detect relevant elements (vehicles, traffic lights, pedestrians, road conditions), and give a cautious, actionable spoken response.
 
-<video controls src="videos/Video 2.mp4" title="Title"></video>
+![alt text](images/test_2.png)
+
+**RIVA's spoken output (transcribed):**  
+"No, the traffic light is red, which means you should wait for now. Do you want me to tell you once it becomes green?"
+
+**Full video demo:**
+videos/Video 2.mp4
 
 ### 3. Object Detection on Canadian Banknotes
 RIVA can also identify and describe specific objects like Canadian currency — useful for tasks such as shopping assistance, bill verification, or finding dropped money.
