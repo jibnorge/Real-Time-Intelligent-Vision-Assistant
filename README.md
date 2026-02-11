@@ -69,14 +69,14 @@ Here are real-world examples of how **RIVA** performs in practical scenarios. Th
 
 This shows RIVA providing a natural, detailed spoken description of the surroundings (e.g., room layout, objects, people, etc.).
 
-<video controls src="https://github.com/jibnorge/Real-Time-Intelligent-Vision-Assistant/blob/master/videos/Video%201.mp4" title="Title"></video>
+<video controls src="videos/Video 1.mp4" title="Title"></video>
 
 ### 2. Safety-Critical Query: Road Crossing Assistance
 **User prompt:** "Hey RIVA! Can I cross the road now?"
 
 This demonstrates RIVA's ability to interpret safety-related questions, detect relevant elements (vehicles, traffic lights, pedestrians, road conditions), and give a cautious, actionable spoken response.
 
-<video controls src="https://github.com/jibnorge/Real-Time-Intelligent-Vision-Assistant/blob/master/videos/Video%202.mp4" title="videos/Video 2.mp4"></video>
+<video controls src="videos/Video 2.mp4" title="Title"></video>
 
 ### 3. Object Detection on Canadian Banknotes
 RIVA can also identify and describe specific objects like Canadian currency — useful for tasks such as shopping assistance, bill verification, or finding dropped money.
