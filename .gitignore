@@ -1,2 +1,12 @@
 # CUDA Application
 apps/
+
+# Jupyter log files
+.ipynb_checkpoints/
+
+# Weights of the model
+project/yolo-image-detection/train_1_1000_currency/weights/
+project/yolo-image-detection/train_2_stairs/weights/
+
+# Datasets
+datasets/
