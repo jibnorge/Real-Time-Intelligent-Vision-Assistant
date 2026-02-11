@@ -1,5 +1,6 @@
 # RIVA: Real-time Intelligent Vision Assistant 
 
+![Cover Image](images/cover-image.png)
 
 **RIVA** is an innovative AI-powered assistant designed to empower individuals with visual impairments by providing real-time audio descriptions of their surroundings. Originally conceptualized for the <a href=https://www.stclaircollege.ca/ford-innovation-showcase/2024-gallery target="_blank">**Ford Innovation Showcase 2024**</a>, RIVA secured a **Top 10** position, highlighting the power of accessible AI technology.
 
